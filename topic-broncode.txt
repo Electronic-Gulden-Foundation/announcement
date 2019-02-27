@@ -1,0 +1,166 @@
+Updated: december 2018
+[center][img]http://i57.tinypic.com/71sln6.jpg[/img][/center]
+
+[center]
+[size=20pt]Electronic Gulden (EFL) - Cryptomoney by the Dutch, for the Netherlands[/size]
+
+[size=15pt]www.e-gulden.org[/size]
+
+[size=15pt][url=https://twitter.com/eguldenfoundati]@eguldenfoundati[/url][/size]
+
+[b]Please understand that this is a country-coin and that our language is Dutch
+Input from abroad is always welcome though[/b]
+
+Contribute on github with development or proposals of new e-Gulden technology!
+https://github.com/Electronic-Gulden-Foundation
+
+Donation adresses:
+EFL: LP1FzcVccDx2ejsvRB4AboXaV17LwgbpBE
+BTC: 1Ny1jwrcBHWezTLEyuupHye3FyVp5MfwjY
+[/center]
+
+[center][img]http://i60.tinypic.com/i5x7aw.png[/img][/center]
+
+[b][color=orange][size=20pt]CORE[/size][/color][/b]
++ e-Gulden is a full Litecoin fork. 
++ "proof of work" (POW) and the "scrypt" difficulty algorithm are maintained.
++ Kimoto Gravity Well difficulty adjustment at each block
++ Oeruschield protection against 51% attacks
+
+[b]Oerushield[/b] is developed by the Electronic Gulden Foundation. It implies:
+
++ Safety of e-Gulden is equivalent to the safety of Bitcoin: Anonymous mining is restricted to five consequent blocks, whereas Bitcoin depends on loyalty of an anonymous majority.
++ Energy consumption of the e-Gulden network is neglectable
++ Network stability is enhanced by reducing block time variance (deviation from 2 minute average)
++ Miner loyalty is stimulated to guarantee network continuation while inflation rates are extremely low
+
+[b][color=orange][size=20pt]MANUALS (dutch)[/size][/color][/b]
+
+Corewallet: http://egulden.org/downloads/Handleiding_Wallet_1103_Windows_792014.pdf
+Starterguide: http://www.youblisher.com/p/1081395-7-Stappen-Handleiding-e-Gulden-Wallet-Uitgave-2015/ 
+
+[b][color=orange][size=20pt]GULDEN CLARIFICATION[/size][/color][/b]
+[b]Because two cryptocurrencies exist that have a similar name we feel compelled to clarify this:[/b]
+
+[b]Initiation: [/b] First interview of representatives of both e-Gulden (EFL) and Guldencoin (NLG) by Paul Buitink: https://www.youtube.com/watch?v=0hJYvUo8ghQ
+Guldencoin (NLG) appeared in April 2014, three weeks after Electronic Gulden (EFL). In october 2015 Guldencoin was abbreviated to Gulden.
+
+[b]Practices: [/b]
+e-Gulden (EFL) is founded anonymously. It's resources are donated to the Dutch community. Early adopters established the EFL Foundation in july 2014 to guide further development and promotion in the Netherlands.
+Its main focus is to establish a local user base and the main language is Dutch.
+
+Gulden (NLG) is a private initiative. NLG actively markets abroad and, as mentioned on [url=https://en.wikipedia.org/wiki/Gulden_(digital_currency)]Wikipedia[/url], the name Guldencoin was abbreviated to Gulden on october 2015, which further obscures the existance of e-Gulden on international markets. More active obfuscation by the NLG-team exists which distinguishes both valuta and which require clarification.  Among which:
+- Destiny of NLG premine changed from "dutch citizens" (see e.g. [url=https://cryptocurrencytalk.com/topic/10409-guldencoin-nlg-information/]cryptocurrencytalk[/url]) to "marketing and development". 
+  Destiny of EFL premine remained "dutch citizens" and is [url=https://e-gulden.org/index.php/campagnes]extensively reported[/url]
+- Instead of NLG original reward halving interval: 840.000 blocks NLG blockreward dropped from 1000 to 100 at [url=https://blockchain.gulden.com/block/1965f37742f08a17ff1315106064d37101b250896e27089b0c872de50132f5af]block 250001[/url]. This way short term inflation is decreased severely favouring early adopters.
+  EFL monetary base is maintained and considered "sacred"
+- Instead of NLG original 4-year blockreward halving and inflation decrease, inflation is fixed at 100 coins per block. This way long term inflation is increased, severely disfavouring longterm savers.
+  EFL longterm inflation is absent.
+
+[b]monitary base[/b]
+- EFL total supply is 20,8 Milion (december 2018) and will eventually reach 21 Milion (year 2021): [url=https://e-gulden.org/index.php/Toekomst]overview[/url]
+- NLG total supply is 480 Milion (december 2018) and will eventually reach 1680 Milion coins. (year 2074)
+
+[b][color=orange][size=20pt]Goal[/size][/color][/b] (as defined by the EFL foundation)
+
+With the release of our Christiaan Huygens wallet and the addition of the oerushield the Electronic Gulden has reached a major milestone.  
+To achieve a solid adoption of EFL we urge the Dutch community to step up. Improving the liquidity of the market is the best course of action. The foundation will continuously reach out to the Dutch people and actively promote purchase of EFL with euros. We point people to -and promote the use of- exchanges where EFL is traded on a daily basis. Currently e-Gulden/EFL best serves as a store of value. Each deposit of a few euros (or even eurocents), over an extended period of time, has the potential to transform into substantial wealth for all participants.
+
+[b]The purpose[/b] to maintain a local cryptocurrency and to establisch a local payment network is to contribute to a global cryptocurrency ecosystem. Instead of competing with Bitcoin EFL is intended to [b]extend[/b] Bitcoin. The capacity of bitcoin, if it has to serve the actual amount of worldwide payments, is at least a factor 10.000 too small. Bitcoin remains the fundament of technology and trust, whereas local initiatives also help to decentralise.
+
+[b][color=orange][size=20pt]Opinion[/size][/color][/b]
+
+Expressed as a reaction to the EBA report on "virtual currencies": http://egulden.org/downloads/A%20response%20to%20the%20already%20notorious%20EBA%20report%20final.pdf
+
+[b][color=orange][size=20pt]Speciƒications[/size][/color][/b]
+
+Premine: 50% ([url=https://e-gulden.org/index.php/premine]Justification (dutch)[/url])
+Proof-of-Work: Scrypt
+Total coins: 21.000.000
+Blok reward: 0.390625 (2018)
+Blok reward halving: each 210000 blocks
+Difficulty adjustment: Kimoto Gravity Well
+51% attack prevention: oerushield
+Market tikker brev.: EFL
+Ascii symbol : ƒ
+sample coin.conf :
+
+[quote]#sample coin.conf
+rpcuser=username
+rpcpassword=password
+rpcallowip=127.0.0.1
+rpcport=21015
+addnode=dnsseed1.egulden.org
+addnode=dnsseed2.egulden.org
+addnode=dnsseed3.egulden.org
+addnode=dnsseed4.egulden.org
+port=11015
+gen=0
+server=1[/quote]
+
+[color=red][b]Premine addresses[/b][/color]
+
+Cold storage 1: LTxR9Afar4rwEqoe7X9ekTv8v5dnGDNCmU
+Cold storage 2: LXVbsA7Yx8NUTjbFT47FZcDX8tcE7i4kEF
+Cold storage 3: LUvVneuEosy3A68iZ6cbpTJavtxofjQFin
+Cold storage 4: Li3G5d6fzm1yVTZFEQgMyDrxiL1jndH1p1
+Cold storage 5: LUtyK93QgvsdXNYXYKwNN1nCvuv6EuVufp
+Cold storage 6: LQPMW5ShBd7G2HAqB14V6gZQu5jnrgoV1b
+Cold storage 7: LeYHLuMPjY6AhbUmeTgZhR1KnCYobiXEXr
+Cold storage 8: LWMGFQqRdxcbDbJn5TTFNQBQx8ENUJZ9j3 [color=red]Redeemed[/color]
+Cold storage 9: LWansW5MHG8AyafPESvBWP5b8KApP2hdZ3 [color=red]Redeemed[/color]
+Cold storage 10: LYjSivPiwpAd1QsSXG2GjZs5ot88D24UrR [color=red]Redeemed[/color]
+
+Hot wallet : (This address changes after each transaction; look at https://e-gulden.org/index.php/premine for realtime info)
+
+[b][color=orange][size=20pt]Wallets[/size][/color][/b]
+
+corewallet, incl. source code: https://github.com/Electronic-Gulden-Foundation/egulden/releases
+HD Wallet - coinomi: https://play.google.com/store/apps/details?id=com.coinomi.wallet
+Hosted Wallet (dutch): https://wallet.efl.nl
+Paper wallet: http://walletgenerator.net/?currency=egulden
+
+[b][color=orange][size=20pt]Mining pools[/size][/color][/b]
+We are always looking for extra pools!
+http://pool.amazingsystems.nl/
+http://pool.efiliaal.nl/ 
+https://prohashing.com (prohashing.com:3333, password "c=eGulden")
+Rental: Looking for some extra hash? Check out [url=http://www.miningrigrentals.com/?ref=16884]Mining Rig Rentals[/url]
+
+[b][color=orange][size=20pt]Markets[/size][/color][/b]
+https://www.cryptopia.co.nz/Exchange/?market=EFL_BTC
+https://novaexchange.com/market/BTC_EFL/
+https://www.bitcoinmeester.nl/e-gulden
+http://www.bitbill.nl/
+https://api.guldenplaza.nl/
+
+[b][color=orange][size=20pt]Other services[/size][/color][/b]
+
+Merchant API: https://api.guldenplaza.nl/
+Blockexplorer: http://chainz.cryptoid.info/efl/
+Blockexplorer: https://explorer.e-gulden.org
+Blockexplorer: https://prohashing.com/explorer/eGulden/
+
+Visit our dripping faucets for your daily dose of free EFL! : http://egulden.org/community/faucets
+
+[b][color=orange][size=20pt]e-Gulden virtual world[/size][/color][/b]
+
+Visit our virtual world by downloading http://www.firestormviewer.org/downloads then create an account here http://www.hypergrid.org/metropolis/metro_rg_en.php when you start firestorm, these are your settings:
+
+Username:  
+Password: 
+Start at: e-Gulden
+login to Grid: Metropolis Metaver 
+Click LOGIN!
+
+https://bitcointalk.org/index.php?action=profile;u=54752 will service as escrow for any transaction you can imagine, or atleast you can give it a shot.
+
+[b][color=orange][size=20pt]Contact, Media and support[/size][/color][/b]
+Email: support@e-gulden.org
+Website: https://e-gulden.org/
+Facebook: https://www.facebook.com/EFLFoundation/
+Twitter: https://twitter.com/eguldenfoundati
+Twitter: https://twitter.com/eGuIden
+Twitter: https://twitter.com/EFLKoers
+Forum: https://forum.e-gulden.org
+Newsletter: https://e-gulden.org/index.php/nieuwsbrieven
