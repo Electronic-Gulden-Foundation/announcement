@@ -10,4 +10,4 @@ De reden om dit open source te maken zijn:
 * iedereen kan suggesties toevoegen
 * Iedereen kan de e-Gulden bewaken
 
-Helaas start deze aktie pas vijf jaar na oprichting. Iedereen die nog een oude versie heeft wordt uitgenodogd om deze te plaatsen/op te sturen
+Deze actie start vijf jaar na oprichting, het zou kunnen dat je een oudere versie van de broncode hebt
