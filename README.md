@@ -9,5 +9,3 @@ De reden om dit open source te maken zijn:
 * Iedereen kan zich abonneren op wijzigingen
 * Iedereen kan suggesties toevoegen
 * Iedereen kan de e-Gulden bewaken
-
-Deze actie start vijf jaar na oprichting, het zou kunnen dat je een oudere versie van de broncode hebt
