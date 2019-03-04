@@ -7,7 +7,7 @@ De URL van de e-Gulden aankondiging/announcement luidt https://bitcointalk.org/i
 De reden om dit open source te maken zijn:
 * Er ontstaat een historie van de aanpassingen
 * Iedereen kan zich abonneren op wijzigingen
-* iedereen kan suggesties toevoegen
+* Iedereen kan suggesties toevoegen
 * Iedereen kan de e-Gulden bewaken
 
 Deze actie start vijf jaar na oprichting, het zou kunnen dat je een oudere versie van de broncode hebt
