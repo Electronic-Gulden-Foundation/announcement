@@ -1,4 +1,4 @@
-# Bitcointalk forum e-Gulden announcemet
+# Bitcointalk forum e-Gulden announcement
 
 The bitcointalk forum: https://bitcointalk.org is where each cryptocurrency is announced at first and where project changes are updated; 
 
