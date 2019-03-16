@@ -1,4 +1,4 @@
-Updated: december 2018
+Updated: MARCH 2019 
 [center][img]http://i57.tinypic.com/71sln6.jpg[/img][/center]
 
 [center]
@@ -11,8 +11,11 @@ Updated: december 2018
 [b]Please understand that this is a country-coin and that our language is Dutch
 Input from abroad is always welcome though[/b]
 
-Contribute on github with development or proposals of new e-Gulden technology!
-https://github.com/Electronic-Gulden-Foundation
+Contribute on gitlab with development or proposals of new e-Gulden technology!
+https://gitlab.com/electronic-gulden-foundation
+
+This announcement is maintained as a separate open source project
+https://gitlab.com/electronic-gulden-foundation/bitcointalk-forum-e-gulden-aankondiging
 
 Donation adresses:
 EFL: LP1FzcVccDx2ejsvRB4AboXaV17LwgbpBE
@@ -22,7 +25,7 @@ BTC: 1Ny1jwrcBHWezTLEyuupHye3FyVp5MfwjY
 [center][img]http://i60.tinypic.com/i5x7aw.png[/img][/center]
 
 [b][color=orange][size=20pt]CORE[/size][/color][/b]
-+ e-Gulden is a full Litecoin fork. 
++ e-Gulden is a full Litecoin fork.
 + "proof of work" (POW) and the "scrypt" difficulty algorithm are maintained.
 + Kimoto Gravity Well difficulty adjustment at each block
 + Oeruschield protection against 51% attacks
@@ -128,15 +131,13 @@ https://prohashing.com (prohashing.com:3333, password "c=eGulden")
 Rental: Looking for some extra hash? Check out [url=http://www.miningrigrentals.com/?ref=16884]Mining Rig Rentals[/url]
 
 [b][color=orange][size=20pt]Markets[/size][/color][/b]
-https://www.cryptopia.co.nz/Exchange/?market=EFL_BTC
+https://www.altilly.com/market/EFL_BTC
+https://www.cryptopia.co.nz/Exchange/?market=EFL_BTC (temporary on hold)
 https://novaexchange.com/market/BTC_EFL/
 https://www.bitcoinmeester.nl/e-gulden
 http://www.bitbill.nl/
-https://api.guldenplaza.nl/
 
 [b][color=orange][size=20pt]Other services[/size][/color][/b]
-
-Merchant API: https://api.guldenplaza.nl/
 Blockexplorer: http://chainz.cryptoid.info/efl/
 Blockexplorer: https://explorer.e-gulden.org
 Blockexplorer: https://prohashing.com/explorer/eGulden/
