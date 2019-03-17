@@ -18,8 +18,8 @@ This announcement is maintained as a separate open source project
 https://gitlab.com/electronic-gulden-foundation/bitcointalk-forum-e-gulden-aankondiging
 
 Donation adresses:
-EFL: LP1FzcVccDx2ejsvRB4AboXaV17LwgbpBE
-BTC: 1Ny1jwrcBHWezTLEyuupHye3FyVp5MfwjY
+EFL: Lg41nfee6KMKYGZxp9daonfcNsgt7VWfjC 
+BTC: 19c6guDS1fjJygVcee42snXss7M6DC97Ye
 [/center]
 
 [center][img]http://i60.tinypic.com/i5x7aw.png[/img][/center]
