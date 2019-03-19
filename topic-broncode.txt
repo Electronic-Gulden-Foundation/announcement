@@ -59,6 +59,7 @@ Gulden (NLG) is a private initiative. NLG actively markets abroad and, as mentio
   EFL monetary base is maintained and considered "sacred"
 - Instead of NLG original 4-year blockreward halving and inflation decrease, inflation is fixed at 100 coins per block. This way long term inflation is increased, severely disfavouring longterm savers.
   EFL longterm inflation is absent.
+- NLG obfuscation in the first degree, removal of the Bitcoin MIT licence copyright Notice https://github.com/Gulden/gulden-official/commit/f174ea0ac9a4d1d23fd7923b640ec4a34ec0b4f2#diff-56e09d0b37e4f3c29b6654d0311feadc
 
 [b]monitary base[/b]
 - EFL total supply is 20,8 Milion (december 2018) and will eventually reach 21 Milion (year 2021): [url=https://e-gulden.org/index.php/Toekomst]overview[/url]
