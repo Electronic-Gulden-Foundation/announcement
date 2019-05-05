@@ -134,7 +134,7 @@ Rental: Looking for some extra hash? Check out [url=http://www.miningrigrentals.
 [b][color=orange][size=20pt]Markets[/size][/color][/b]
 https://altmarkets.io/trading/eflbtc
 https://www.altilly.com/market/EFL_BTC
-https://www.cryptopia.co.nz/Exchange/?market=EFL_BTC
+https://www.cryptopia.co.nz/Exchange/?market=EFL_BTC [color=red](Deposits and withdrawels still disabled)
 https://novaexchange.com/market/BTC_EFL/
 http://www.bitbill.nl/
 
