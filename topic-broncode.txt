@@ -132,9 +132,9 @@ https://prohashing.com (prohashing.com:3333, password "c=eGulden")
 Rental: Looking for some extra hash? Check out [url=http://www.miningrigrentals.com/?ref=16884]Mining Rig Rentals[/url]
 
 [b][color=orange][size=20pt]Markets[/size][/color][/b]
-https://exchange.guldentrader.com
-https://www.altilly.com/market/EFL_BTC
-https://novaexchange.com/market/BTC_EFL/
+https://exchange.guldentrader.com (EFL-NLG, EFL-EUR)
+https://www.altilly.com/market/EFL_BTC (EFL-BTC, EFL-LTC, EFL-XQR)
+https://novaexchange.com/market/BTC_EFL/ (EFL-BTC, EFL-DOGE)
 
 [b][color=orange][size=20pt]Other services[/size][/color][/b]
 Blockexplorer: http://chainz.cryptoid.info/efl/
