@@ -1,4 +1,4 @@
-Updated: MAY 2019 
+Updated: March 2020 
 [center][img]http://i57.tinypic.com/71sln6.jpg[/img][/center]
 
 [center]
@@ -25,10 +25,10 @@ BTC: 19c6guDS1fjJygVcee42snXss7M6DC97Ye
 [center][img]http://i60.tinypic.com/i5x7aw.png[/img][/center]
 
 [b][color=orange][size=20pt]CORE[/size][/color][/b]
-+ e-Gulden is a full Litecoin fork.
++ e-Gulden is a full Litecoin fork, operational since 19-march-2014.
 + "proof of work" (POW) and the "scrypt" difficulty algorithm are maintained.
 + Kimoto Gravity Well difficulty adjustment at each block
-+ Oeruschield protection against 51% attacks
++ Oeruschield enhancement to protect against 51% attacks
 
 [b]Oerushield[/b] is developed by the Electronic Gulden Foundation. It implies:
 
@@ -68,7 +68,7 @@ Gulden (NLG) is a private initiative. NLG actively markets abroad and, as mentio
 [b][color=orange][size=20pt]Goal[/size][/color][/b] (as defined by the EFL foundation)
 
 With the release of our Christiaan Huygens wallet and the addition of the oerushield the Electronic Gulden has reached a major milestone.  
-To achieve a solid adoption of EFL we urge the Dutch community to step up. Improving the liquidity of the market is the best course of action. The foundation will continuously reach out to the Dutch people and actively promote purchase of EFL with euros. We point people to -and promote the use of- exchanges where EFL is traded on a daily basis. Currently e-Gulden/EFL best serves as a store of value. Each deposit of a few euros (or even eurocents), over an extended period of time, has the potential to transform into substantial wealth for all participants.
+To achieve a solid adoption of EFL we urge the Dutch community to step up. Improving the liquidity of the market is the best course of action. The foundation will continuously reach out to the Dutch people and actively promote the availability of EFL. We point people to -and promote the use of- exchanges where EFL is traded on a daily basis. Currently e-Gulden/EFL best serves as a store of value. Each deposit of a few euros (or even eurocents), has the potential to transform into substantial wealth for all participants if adoption becomes mainstream.
 
 [b]The purpose[/b] to maintain a local cryptocurrency and to establisch a local payment network is to contribute to a global cryptocurrency ecosystem. Instead of competing with Bitcoin EFL is intended to [b]extend[/b] Bitcoin. The capacity of bitcoin, if it has to serve the actual amount of worldwide payments, is at least a factor 10.000 too small. Bitcoin remains the fundament of technology and trust, whereas local initiatives also help to decentralise.
 
@@ -132,26 +132,13 @@ https://prohashing.com (prohashing.com:3333, password "c=eGulden")
 Rental: Looking for some extra hash? Check out [url=http://www.miningrigrentals.com/?ref=16884]Mining Rig Rentals[/url]
 
 [b][color=orange][size=20pt]Markets[/size][/color][/b]
-https://exchange.guldentrader.com (EFL-NLG, EFL-EUR)
 https://www.altilly.com/market/EFL_BTC (EFL-BTC, EFL-LTC, EFL-XQR)
-https://novaexchange.com/market/BTC_EFL/ (EFL-BTC, EFL-DOGE)
+https://trade.tradecoinx.com/trading/eflbtc 
 
 [b][color=orange][size=20pt]Other services[/size][/color][/b]
 Blockexplorer: http://chainz.cryptoid.info/efl/
 Blockexplorer: https://explorer.e-gulden.org
 Blockexplorer: https://prohashing.com/explorer/eGulden/
-
-Visit our dripping faucets for your daily dose of free EFL! : http://egulden.org/community/faucets
-
-[b][color=orange][size=20pt]e-Gulden virtual world[/size][/color][/b]
-
-Visit our virtual world by downloading http://www.firestormviewer.org/downloads then create an account here http://www.hypergrid.org/metropolis/metro_rg_en.php when you start firestorm, these are your settings:
-
-Username:  
-Password: 
-Start at: e-Gulden
-login to Grid: Metropolis Metaver 
-Click LOGIN!
 
 https://bitcointalk.org/index.php?action=profile;u=54752 will service as escrow for any transaction you can imagine, or atleast you can give it a shot.
 
@@ -160,7 +147,9 @@ Email: support@e-gulden.org
 Website: https://e-gulden.org/
 Facebook: https://www.facebook.com/EFLFoundation/
 Twitter: https://twitter.com/eguldenfoundati
-Twitter: https://twitter.com/eGuIden
-Twitter: https://twitter.com/EFLKoers
 Forum: https://forum.e-gulden.org
 Newsletter: https://e-gulden.org/index.php/nieuwsbrieven
+Telegram: https://t.me/joinchat/K5PBq1fK2nPX61j3MWuIAQ
+Discord: https://discordapp.com/invite/WPFjR8B
+Reddit: https://www.reddit.com/r/eflfoundation
+WIKI: https://wiki.egulden.org/
