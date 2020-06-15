@@ -1,4 +1,4 @@
-Updated: March 2020 
+Updated: June 2020 
 [center][img]http://i57.tinypic.com/71sln6.jpg[/img][/center]
 
 [center]
@@ -135,6 +135,7 @@ Rental: Looking for some extra hash? Check out [url=http://www.miningrigrentals.
 https://www.altilly.com/market/EFL_BTC (EFL-BTC, EFL-LTC, EFL-XQR)
 https://folgory.com/trade-crypto/EFL_BTC
 https://trade.tradecoinx.com/trading/eflbtc 
+https://www.unnamed.exchange/Exchange?market=EFL_BTC
 
 [b][color=orange][size=20pt]Other services[/size][/color][/b]
 Blockexplorer: http://chainz.cryptoid.info/efl/
